@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'ConnectPlug'),
 
     /*
     |--------------------------------------------------------------------------
@@ -119,7 +119,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY', 'base64:b3Zf4BTv3mzEWU6u+7IO1fCozP+thUjs8zy8BZRRkII='),
 
     'cipher' => 'AES-256-CBC',
 
