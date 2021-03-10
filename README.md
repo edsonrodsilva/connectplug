@@ -16,8 +16,11 @@ Inventário de loja de roupa
         ● Ex: Tamanho - P - M G , N….. Cor - azul, verm, roxo etc…
         ● Atributos são atribuídos a produtos.
 
-## Estoque
+## Stock
     ● Controlar o saldo e as movimentações (entrada/saída) de estoque dos produtos.
     ● Permitir registrar entradas e saídas
     ● Tal controle deve contemplar atributos.
+
+## Modeling databases
+![Screenshot](/public/images/modelo_inventario_loja_de_roupa_connectplug.png)
 
