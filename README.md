@@ -31,17 +31,32 @@ Voce pode testar a aplicação online no link:
 [< link do projeto >](http://www.edsonrodrigues.com.br)
 
 ## Tecnologias e ferramentas
-PHP 7.4
-PHP-POO
-Laravel Framework 8.*
-API RESTful
-Modelagem de dados
-NodeJS
-MySQL
-Git
-Tailwindcss
-Composer
+<!--ts-->
+    * Sobre
+    * PHP 7.4
+    * PHP-POO
+    * Laravel Framework 8.*
+    * API RESTful
+    * Modelagem de dados
+    * NodeJS
+    * MySQL
+    * Git
+    * Tailwindcss
+    * Composer
+<!--te-->
 
+
+
+## O tentei demostrar ##
+<!--ts-->
+* Organização;
+* Simplicidade;
+* Objetividade;
+* Reúso de código;
+* Testes unitários;
+* Padronização de código;
+* Padrões de projeto;
+<!--te-->
 
 
 
